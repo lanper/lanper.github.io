@@ -4,7 +4,7 @@ I can use the [editor on GitHub](https://github.com/lanper/lanper.github.io/edit
 
 ### Portfolio
 
-I created and maintain this website in both English and Russian. [Novaya Nadezhda](https://novaya-nadezhda.com/) A Russian Church website with an outreach in the greater Austin-area.
+>I created and maintain this website in both English and Russian. [Novaya Nadezhda](http://novaya-nadezhda.com) A Russian Church website with an outreach in the greater Austin-area.
 
 ```markdown
 Syntax highlighted code block
