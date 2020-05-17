@@ -2,7 +2,7 @@
 
 ### About Me.
 
-I am a beginner at web developement and will be using this site to **showcase** my portfolio.
+I am a beginner at web developement and will be using this site to *showcase* my portfolio.
 
 #### Portfolio.
 
